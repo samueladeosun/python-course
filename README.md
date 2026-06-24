@@ -1,6 +1,6 @@
 # Python for Data Analysis - Course Repository
 
-Welcome to the **Python for Data Analysis** course repository! This is a comprehensive introductory course on Python programming with a focus on data analysis, designed for students at NiSiF (Nigerian Students in Freiburg).
+Welcome to the **Python for Data Analysis** course repository! This is a comprehensive introductory course on Python programming with a focus on data analysis, designed for Nigerian Students in Freiburg (NiSiF).
 
 ## 📚 Course Overview
 
